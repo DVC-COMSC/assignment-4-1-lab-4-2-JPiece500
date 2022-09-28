@@ -55,4 +55,4 @@ int main() {
   cout << "Original amount is " << originalAmount << endl;
   cout << "Discount amount is " << discountAmount << endl;
   cout << "Total Price is " << totalCost << endl;
-}
+  }
