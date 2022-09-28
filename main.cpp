@@ -7,9 +7,9 @@
 //*                50 - 99                        40%
 //*                100+                            50%
 //*- Write a program that asks for the number of units sold and
-//*  computes the total cost of the purchase.
-//** Input Validation : Input must be a positive integer.
-//**    If we have negative input, just quit the program.
+//*  computes the total cost of the purchase
+//** Input Validation : Input must be a positive integer
+//**    If we have negative input, just quit the program
 #include <iomanip>
 #include <iostream>
 using namespace std;
