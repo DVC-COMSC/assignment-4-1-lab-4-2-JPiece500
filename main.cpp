@@ -44,9 +44,10 @@ int main() {
     dRate = PERC49;
   else if (numberofSold < 100)
     dRate = PERC99;
-  else
+  else {
     dRate = PERC100;
-
+    }
+    
   originalAmount = numberofSold * Price;
   discountAmount = originalAmount * dRate;
   totalCost = originalAmount - discountAmount;
